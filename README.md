@@ -9,7 +9,7 @@ Excel Projects Portfolio – A collection of Excel projects demonstrating my lea
 - Data Analysis and Visualisation
 - Dashboard Design
 
-# Bike Sales Dashboard
+# 1. Bike Sales Dashboard
 An interactive dashboard designed to analyse customer characteristics and identify patterns in bike purchasing behaviour.
 
 ## Key Features:
@@ -25,4 +25,27 @@ An interactive dashboard designed to analyse customer characteristics and identi
 
 ## Dashboard Preview
 ![Bike Sales Dashboard](bike_sales_dashboard.png)
+
+# 2. Vrinda Store Annual Report 2022
+An interactive Excel dashboard analysing Vrinda Store's annual sales performance in 2022, with a focus on sales trends, customer demographics and order fulfilment.
+
+## Key Performance Indicators
+- Total Sales: ₹21,176,377
+- Average Sales: ₹682.07
+- Delivered Orders: 28,641
+- Total Orders: 28,472
+  
+## Key Features
+- Gender Analysis: Comparison of sales and orders between women and men.
+- Sales Channel Analysis: Comparison of orders across different online platforms.
+- Age Group Analysis: Understanding purchasing patterns across different age groups.
+- Monthly Sales Trends: Analysis of sales performance across the year.
+- Geographical Sales Analysis: Top 5 states contributing to overall sales.
+- Interactive Dashboard: PivotTables, PivotCharts and slicers for filtering and exploring sales data.
+
+## Project Files
+- Vrinda_Store_Annual_Report_2022.xlsx – Excel workbook containing the dashboard, source data, PivotTables and PivotCharts.
+
+## Dashboard Preview
+![Vrinda Store Dashboard](vrinda_dashboard_preview.png)
 
